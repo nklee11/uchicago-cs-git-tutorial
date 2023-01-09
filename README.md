@@ -1,2 +1,2 @@
-Allison Lee
+Allison Lee nklee
 # uchicago-cs-git-tutorial
